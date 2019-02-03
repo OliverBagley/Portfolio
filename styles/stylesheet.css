@@ -1,0 +1,11 @@
+#home {
+    margin-top: 75px;
+}
+
+.container-wide {
+    width: 100%;
+    padding-right: 75px;
+    padding-left: 75px;
+    margin-right: auto;
+    margin-left: auto;
+}
